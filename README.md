@@ -1,2 +1,2 @@
 # tiny
-The tiniest nom module
+The tiniest npm module
